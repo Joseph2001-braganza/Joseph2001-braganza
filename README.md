@@ -5,10 +5,10 @@
 - 🌱 I’m currently learning ..
 - 💞️ I’m looking to collaborate on Web Development, Machine Learning , Artificial Intelligence, BlockChain
 
-Skills: Express JS / REACT / JS / HTML / CSS/Node JS/MongoDB
+Skills: Express JS / REACT JS / HTML / CSS/ Node JS / MongoDB / Javascript / Python / Java.
 
-- 🔭 I’m currently working on Web Dev Project 
-- 🌱 I’m currently learning Solidity and Backend 
+- 🔭 I’m currently working on Web Dev Projects.
+- 🌱 I’m currently learning Solidity and Backend.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Joseph2001-braganza)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/joseph-braganza-7a3a311ba//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/josephabraganza//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/JosephBraganza4)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/16195653/joseph-braganza)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/braganzajoseph2001/)  
