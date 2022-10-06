@@ -18,9 +18,6 @@ Skills: Express JS / REACT JS / HTML / CSS/ Node JS / MongoDB / Javascript / Pyt
 [![My Skills](https://skills.thijs.gg/icons?i=angular,nodejs,react,redis&theme=light)](https://skills.thijs.gg)
 
 [![My Skills](https://skills.thijs.gg/icons?i=mongodb,mysql&theme=light)](https://skills.thijs.gg)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joseph2001-braganza)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Joseph2001-braganza&show_icons=true)  
+  
 
 ![Profile views](https://gpvc.arturio.dev/Joseph2001-braganza)  
