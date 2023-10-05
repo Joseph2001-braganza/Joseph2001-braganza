@@ -20,4 +20,4 @@ Skills: Express JS / REACT JS / HTML / CSS/ Node JS / MongoDB / Javascript / Pyt
 [![My Skills](https://skills.thijs.gg/icons?i=mongodb,mysql&theme=light)](https://skills.thijs.gg)
   
 
-![Profile views](https://gpvc.arturio.dev/Joseph2001-braganza)  
+![Profile views](https://komarev.com/ghpvc/?username=Joseph2001-braganza)
